@@ -63,3 +63,5 @@ group :test do
 end
 
 gem "tailwindcss-rails", "~> 3.0"
+
+gem "rbui", github: "rbui-labs/rbui", branch: "main"
