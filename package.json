@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@hotwired/stimulus": "^3.2.2",
-    "@hotwired/turbo-rails": "^8.0.12"
+    "@hotwired/turbo-rails": "^8.0.12",
+    "rbui-js": "^1.0.0-alpha.4",
+    "tailwindcss-animate": "^1.0.7"
   }
 }
