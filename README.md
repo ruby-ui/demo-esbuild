@@ -20,7 +20,7 @@ This README documents the steps taken to set up this Rails project with esbuild 
 3. Add RBUI to the Gemfile:
 
    ```ruby
-   gem "rbui", github: "rbui-labs/rbui"
+   gem "rbui", github: "rbui-labs/rbui", branch: "main"
    ```
 
 4. Install RBUI:
